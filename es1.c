@@ -13,6 +13,10 @@ int main(){
     printf("ok bravo");
     return 0;
 } else {
+    if(numero_verysmol = 69){
+            printf("kinky");
+    }else{
     printf("BUGIARDO");
+}
 }
 }

@@ -4,5 +4,15 @@
 
 int main(){
 
-    return 0;
+    int eta_utente;
+    printf("quanti anni hai?");
+    scanf("%d", &eta_utente);
+    if(eta_utente >= 18){
+        printf("sei maggiorenne!");
+        return 0;
+    } else {
+        printf("sei minorenne...");
+        return 0;
+    }
+
 }
